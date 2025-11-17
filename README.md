@@ -73,15 +73,20 @@ https://github.com/user-attachments/assets/19d45617-5a94-4ea3-8a0e-8895d5529d4d
 
 
     
-  Drive link:
+   Drive link:https://drive.google.com/file/d/1sfy5pVvsiXXSH3-13u1unP7raxcEXFgh/view?usp=drive_link
     
 Prompt 2 (Detailed): "A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them."
   
   Output:
 
 
-    
-  Drive link:
+
+
+
+
+
+  Drive link:https://drive.google.com/file/d/19dSwpNS9fPlVY8Zr_IKBMf-HYK0Gqsuo/view?usp=drive_link
+
   
 ## Conclusion:
 
