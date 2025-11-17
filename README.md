@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/19d45617-5a94-4ea3-8a0e-8895d5529d4d
     
 Prompt 2 (Detailed): "A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them."
   
-  Output:
+  Output: (---unable to upload --- see in files---)
 
 
 
