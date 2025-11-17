@@ -66,7 +66,11 @@ Prompt 1 (Simple): "A person walking in a park."
 
   Output: 
 
-  Uploading AI_Video_Generation_Prompting_Techniques_Explored.mp4…
+  
+
+https://github.com/user-attachments/assets/19d45617-5a94-4ea3-8a0e-8895d5529d4d
+
+
 
     
   Drive link:
